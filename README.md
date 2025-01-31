@@ -1,0 +1,2 @@
+# Deepseek_local_knowledge
+致力于Deepseek本地知识库的项目
