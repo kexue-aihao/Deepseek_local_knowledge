@@ -1,8 +1,9 @@
-<center>
-<p style="font-family:'楷体';font-size:1.8em;">
-Deepseek本地知识库项目
-</p>
-</center>
+# Deepseek本地知识库项目
 
 ---
-- 致力于Deepseek本地知识库的项目
+
+## 什么是Deepseek？
+
+	Deepseek是一家成立于2023年的创新型科技公司，专注于开发新进的大语言模型（LLM）和相关技术.它由知名私募巨头幻方量化孕育而生，并得到幻方量化在硬件支持上的强大助力.
+
+## Deepseek都发布了些什么？
