@@ -1,2 +1,2 @@
-# Deepseek_local_knowledge
+# 关于国产开源大模型本地知识库项目
 致力于Deepseek本地知识库的项目
